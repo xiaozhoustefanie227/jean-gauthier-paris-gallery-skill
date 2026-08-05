@@ -1,57 +1,108 @@
-<p align="center">
-<img src="./ChatGPT%20Image%202026%E5%B9%B48%E6%9C%885%E6%97%A5%2013_53_23.png" width="100%">
-</p>
 # Jean Gauthier × Paris Gallery Skill V4
 
-A visual skill for creating poetic paper-based artworks inspired by Jean Gauthier-like gallery studies.
+![Cover](assets/cover.png)
 
-## What changed in V4
+A visual direction skill for transforming images into poetic Paris gallery archive artworks.
 
-- closer to private paper artworks than graphic posters
-- stronger notebook / atelier / gallery fragment feeling
-- sparse collage, more incidental than designed
-- more authentic line work and painterly incompletion
-- updated date rule: no date by default, and if used, 2026 only
+Inspired by:
 
-## Best for
+- private artist notebooks
+- French gallery archives
+- atelier fragments
+- unfinished paper studies
 
-- portraits
-- landscapes
-- still life
-- furniture
-- poetic visual studies
+The goal is not to create a poster.
 
-## Core idea
+The goal is to create the feeling of discovering an artist's private study sheet.
 
-> Do not redraw the whole image. Preserve only the most emotional fragment.
+---
+
+# Features
+
+✨ Paper-based gallery aesthetics
+
+✨ Handmade material texture
+
+✨ Notebook / atelier atmosphere
+
+✨ Sparse poetic composition
+
+✨ Authentic unfinished artwork feeling
+
+---
+
+# Workflow
+
+## 1. Observe
+
+Identify:
+
+- emotional fragment
+- important silhouette
+- meaningful texture
+
+
+## 2. Reduce
+
+Remove unnecessary information.
+
+Keep only the strongest visual memory.
+
+
+## 3. Reconstruct
+
+Transform into:
+
+- artist notebook page
+- gallery archive fragment
+- paper artwork
+
+
+## 4. Add Imperfection
+
+Introduce:
+
+- pencil traces
+- watercolor marks
+- handwritten notes
+- collage fragments
+
 ---
 
 # Examples
 
 ## Portrait
 
-See:
-`examples/portrait.md`
+Human portraits and character studies.
 
-For human portraits and character studies.
+→ `examples/portrait.md`
 
 ---
 
 ## Landscape
 
-See:
-`examples/landscape.md`
+Nature, architecture and spatial memories.
 
-For landscapes, architecture and spatial memories.
+→ `examples/landscape.md`
 
 ---
 
 ## Still Life
 
-See:
-`examples/still-life.md`
+Objects, furniture and poetic studies.
 
-For objects, furniture and poetic still-life studies.
+→ `examples/still-life.md`
 
+---
 
 # File Structure
+
+---
+
+# Version
+
+Current version:
+
+**V4.0.0**
+
+Released in 2026.
