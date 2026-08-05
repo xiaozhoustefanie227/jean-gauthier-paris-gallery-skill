@@ -24,3 +24,34 @@ A visual skill for creating poetic paper-based artworks inspired by Jean Gauthie
 ## Core idea
 
 > Do not redraw the whole image. Preserve only the most emotional fragment.
+---
+
+# Examples
+
+## Portrait
+
+See:
+`examples/portrait.md`
+
+For human portraits and character studies.
+
+---
+
+## Landscape
+
+See:
+`examples/landscape.md`
+
+For landscapes, architecture and spatial memories.
+
+---
+
+## Still Life
+
+See:
+`examples/still-life.md`
+
+For objects, furniture and poetic still-life studies.
+
+
+# File Structure
