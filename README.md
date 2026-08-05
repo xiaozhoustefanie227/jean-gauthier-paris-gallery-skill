@@ -1,6 +1,6 @@
 # Jean Gauthier × Paris Gallery Skill V4
 
-<img src="assets/cover.png" alt="Jean Gauthier Paris Gallery Skill Cover" width="100%">
+<img src="https://raw.githubusercontent.com/xiaozhoustefanie227/jean-gauthier-paris-gallery-skill/main/assets/cover.png" width="100%" alt="Jean Gauthier Paris Gallery Skill Cover">
 
 A visual direction skill for transforming images into poetic Paris gallery archive artworks.
 
