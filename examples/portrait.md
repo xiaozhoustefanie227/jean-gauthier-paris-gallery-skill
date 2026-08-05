@@ -1,21 +1,68 @@
-# Portrait Study Example
+# Portrait Example
 
-## Input
+## Use Case
 
-Portrait image.
+Transform a portrait image into a poetic Paris gallery archive artwork.
 
-## Direction
+---
 
-Transform the portrait into a poetic Paris gallery paper study.
+## Visual Direction
 
-## Visual Rules
+Create the feeling of a private artist study sheet.
 
-- preserve the emotional fragment of the subject
-- use handmade pencil and watercolor marks
-- keep imperfect lines and unfinished painting feeling
-- add archival paper texture
-- avoid polished digital poster aesthetics
+Preserve:
 
-## Output Feeling
+- human identity
+- emotional expression
+- silhouette
+- important personal details
 
-A private artist notebook page from a Paris gallery archive.
+
+Transform into:
+
+- aged paper artwork
+- atelier notebook fragment
+- gallery archive piece
+
+---
+
+## Prompt Template
+
+Transform this portrait into a Jean Gauthier × Paris Gallery inspired artwork.
+
+Style:
+
+private artist notebook,
+French gallery archive,
+handmade paper texture,
+unfinished pencil drawing,
+subtle watercolor traces,
+collage fragments,
+poetic imperfection.
+
+Composition:
+
+asymmetric layout,
+large negative space,
+quiet museum atmosphere.
+
+Materials:
+
+aged paper,
+soft graphite,
+archival labels,
+natural pigment.
+
+Keep:
+
+the original person recognizable,
+natural proportions,
+authentic emotion.
+
+Avoid:
+
+digital illustration,
+poster design,
+fashion magazine style,
+3D rendering,
+perfect clean lines.
