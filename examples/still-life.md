@@ -1,21 +1,70 @@
-# Still Life Study Example
+# Still Life Example
 
-## Input
+## Use Case
 
-Object, furniture, or still life image.
+Transform an object or still-life image into a poetic Paris gallery archive artwork.
 
-## Direction
+---
 
-Transform the object into a poetic Paris gallery archive study.
+## Visual Direction
 
-## Visual Rules
+Create the feeling of an artist's private observation notebook.
 
-- focus on the emotional fragment of the object
-- use delicate pencil contours and handmade color marks
-- preserve imperfections and unfinished details
-- combine paper texture with archival atmosphere
-- avoid commercial product photography style
+Preserve:
 
-## Output Feeling
+- object identity
+- material qualities
+- texture
+- quiet emotional meaning
 
-A quiet artist notebook fragment preserved in a Paris gallery archive.
+
+Transform into:
+
+- archival still-life study
+- atelier paper fragment
+- gallery collection document
+
+---
+
+## Prompt Template
+
+Transform this still life into a Jean Gauthier × Paris Gallery inspired artwork.
+
+Style:
+
+French artist archive,
+private studio notebook,
+handmade paper surface,
+pencil observation,
+watercolor residue,
+collage fragments,
+poetic imperfection.
+
+Composition:
+
+minimal arrangement,
+asymmetric placement,
+soft negative space,
+quiet museum atmosphere.
+
+Materials:
+
+aged paper,
+graphite,
+natural pigments,
+handwritten notes,
+archival labels.
+
+Keep:
+
+the original object characteristics,
+material texture,
+subtle emotional atmosphere.
+
+Avoid:
+
+product photography,
+commercial catalog style,
+clean graphic poster,
+3D rendering,
+perfect digital illustration.
