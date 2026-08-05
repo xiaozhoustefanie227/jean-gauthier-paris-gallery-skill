@@ -1,21 +1,70 @@
-# Landscape Study Example
+# Landscape Example
 
-## Input
+## Use Case
 
-Landscape image.
+Transform a landscape image into a poetic Paris gallery archive artwork.
 
-## Direction
+---
 
-Transform the landscape into a poetic Paris gallery paper study.
+## Visual Direction
 
-## Visual Rules
+Create the feeling of discovering an old artist's landscape study.
 
-- preserve the most emotional fragment of the scenery
-- use delicate pencil outlines and transparent color layers
-- create an archival artist notebook feeling
-- keep imperfect handmade marks
-- avoid cinematic landscape poster aesthetics
+Preserve:
 
-## Output Feeling
+- emotional atmosphere
+- natural rhythm
+- key spatial elements
+- environmental memory
 
-A forgotten landscape sketch preserved inside a Paris gallery archive.
+
+Transform into:
+
+- paper-based artwork
+- atelier landscape fragment
+- gallery archive document
+
+---
+
+## Prompt Template
+
+Transform this landscape into a Jean Gauthier × Paris Gallery inspired artwork.
+
+Style:
+
+French artist notebook,
+private gallery archive,
+handmade paper texture,
+pencil observation,
+watercolor fragments,
+collage elements,
+quiet poetic atmosphere.
+
+Composition:
+
+asymmetric placement,
+large empty space,
+minimal visual information,
+museum archive feeling.
+
+Materials:
+
+aged paper,
+graphite lines,
+soft pigment,
+archival notes,
+handwritten marks.
+
+Keep:
+
+the original landscape identity,
+natural proportions,
+emotional atmosphere.
+
+Avoid:
+
+digital painting,
+travel poster,
+cinematic landscape,
+hyper-realistic rendering,
+commercial photography style.
