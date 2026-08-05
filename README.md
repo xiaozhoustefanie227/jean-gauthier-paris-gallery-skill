@@ -106,3 +106,19 @@ Current version:
 **V4.0.0**
 
 Released in 2026.
+## Usage
+
+Upload an image and apply the Jean Gauthier × Paris Gallery visual direction.
+
+Supported categories:
+
+- Portrait
+- Landscape
+- Still life
+
+The skill preserves:
+- identity
+- composition
+- emotional atmosphere
+
+while transforming the image into a poetic paper-based gallery artwork.
